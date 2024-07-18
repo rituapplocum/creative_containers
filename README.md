@@ -7,7 +7,7 @@ Let's you customise your existing container
 1. Add the latest version of package to your pybspec.yaml file
 ```yaml
 dependencies:
-  new_creative_containers: ^0.0.1
+  new_creative_containers: ^0.0.2
 ```
 2. Import the package and use it in your flutter app.
 ```dart
